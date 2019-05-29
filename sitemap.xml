@@ -3,8 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.openhwgroup.org/legal/terms-of-use/</loc>
+    <lastmod>2019-05-28T16:09:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openhwgroup.org/legal/privacy/</loc>
+    <lastmod>2019-05-28T16:09:45-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openhwgroup.org/</loc>
     <lastmod>2019-03-14T15:50:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openhwgroup.org/legal/</loc>
+    <lastmod>2019-05-28T16:09:45-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
