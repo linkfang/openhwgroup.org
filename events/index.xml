@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on </title>
+    <link>https://www.openhwgroup.org/events/</link>
+    <description>Recent content in Events on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>info@openhwgroup.org (OpenHW Group)</managingEditor>
+    <webMaster>info@openhwgroup.org (OpenHW Group)</webMaster>
+    <lastBuildDate>Thu, 05 Apr 2018 15:50:25 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.openhwgroup.org/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WOSH / RISC-V Workshop Zurich</title>
+      <link>https://www.openhwgroup.org/events/2019-06-11/</link>
+      <pubDate>Thu, 30 May 2019 05:10:00 +0000</pubDate>
+      <author>info@openhwgroup.org (OpenHW Group)</author>
+      <guid>https://www.openhwgroup.org/events/2019-06-11/</guid>
+      <description>This is an example of the Eclipse Foundation Solstice theme for Hugo.</description>
+    </item>
+    
+  </channel>
+</rss>
