@@ -13,6 +13,24 @@
     
     
     <item>
+      <title>Open Source Developer Forum (OSDForum)</title>
+      <link>https://www.openhwgroup.org/events/2019-08-13/</link>
+      <pubDate>Tue, 13 Aug 2019 05:10:00 +0000</pubDate>
+      <author>info@openhwgroup.org (OpenHW Group)</author>
+      <guid>https://www.openhwgroup.org/events/2019-08-13/</guid>
+      <description>The Open Source Developer Forum is a one workshop that brings open source SW and HW (chips, boards and systems) developers together to collaborate and learn. The OSDForum includes talks from leading industry and academic experts focused on IoT, Edge and Machine Learning development leveraging open source SW and HW building blocks.</description>
+    </item>
+    
+    <item>
+      <title>OpenHW Group Summer 2019 Update</title>
+      <link>https://www.openhwgroup.org/news/2019/08/13/openhw-group-summer-2019-update/</link>
+      <pubDate>Tue, 13 Aug 2019 05:10:00 +0000</pubDate>
+      <author>info@openhwgroup.org (OpenHW Group)</author>
+      <guid>https://www.openhwgroup.org/news/2019/08/13/openhw-group-summer-2019-update/</guid>
+      <description>In case you missed it, we launched the OpenHW Group at the ETH Zurich WOSH / RISC-V Workshop this past June and we have a great event coming up this fall, Open Source Developer Forum (OSDForum)!</description>
+    </item>
+    
+    <item>
       <title>OpenHW Group Announced</title>
       <link>https://www.openhwgroup.org/news/2019/06/06/openhw-group-announced/</link>
       <pubDate>Thu, 06 Jun 2019 05:10:00 +0000</pubDate>

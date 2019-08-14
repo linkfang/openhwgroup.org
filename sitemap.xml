@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.openhwgroup.org/events/2019-08-13/</loc>
+    <lastmod>2019-08-13T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openhwgroup.org/news/2019/08/13/openhw-group-summer-2019-update/</loc>
+    <lastmod>2019-08-13T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openhwgroup.org/news/2019/06/06/openhw-group-announced/</loc>
     <lastmod>2019-06-06T05:10:00+00:00</lastmod>
   </url>
@@ -39,13 +49,13 @@
   
   <url>
     <loc>https://www.openhwgroup.org/categories/announcements/</loc>
-    <lastmod>2019-06-06T05:10:00+00:00</lastmod>
+    <lastmod>2019-08-13T05:10:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.openhwgroup.org/categories/events/</loc>
-    <lastmod>2019-05-30T05:10:00+00:00</lastmod>
+    <lastmod>2019-08-13T05:10:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
