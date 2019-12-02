@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>info@openhwgroup.org (OpenHW Group)</managingEditor>
     <webMaster>info@openhwgroup.org (OpenHW Group)</webMaster>
-    <lastBuildDate>Tue, 13 Aug 2019 05:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2019 05:10:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openhwgroup.org/categories/events/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RISC-V Summit</title>
+      <link>https://www.openhwgroup.org/events/2019-12-10/</link>
+      <pubDate>Sun, 01 Dec 2019 05:10:00 +0000</pubDate>
+      <author>info@openhwgroup.org (OpenHW Group)</author>
+      <guid>https://www.openhwgroup.org/events/2019-12-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CENGN Summit</title>
+      <link>https://www.openhwgroup.org/events/2019-11-13/</link>
+      <pubDate>Wed, 13 Nov 2019 05:10:00 +0000</pubDate>
+      <author>info@openhwgroup.org (OpenHW Group)</author>
+      <guid>https://www.openhwgroup.org/events/2019-11-13/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Open Source Developer Forum (OSDForum)</title>
