@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Explore our members on </title>
+    <link>https://www.openhwgroup.org/membership/members/</link>
+    <description>Recent content in Explore our members on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>info@openhwgroup.org (OpenHW Group)</managingEditor>
+    <webMaster>info@openhwgroup.org (OpenHW Group)</webMaster>
+    <lastBuildDate>Sun, 01 Dec 2019 15:50:25 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.openhwgroup.org/membership/members/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

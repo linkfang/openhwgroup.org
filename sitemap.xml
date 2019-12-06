@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.openhwgroup.org/membership/contact/</loc>
+    <lastmod>2019-12-01T15:50:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openhwgroup.org/membership/members/</loc>
+    <lastmod>2019-12-01T15:50:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openhwgroup.org/membership/</loc>
+    <lastmod>2019-12-01T15:50:25-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openhwgroup.org/events/2019-12-10/</loc>
     <lastmod>2019-12-01T05:10:00+00:00</lastmod>
   </url>
