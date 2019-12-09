@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>info@openhwgroup.org (OpenHW Group)</managingEditor>
     <webMaster>info@openhwgroup.org (OpenHW Group)</webMaster>
-    <lastBuildDate>Tue, 13 Aug 2019 05:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2019 05:10:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openhwgroup.org/categories/announcements/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OpenHW Group to showcase member projects based on CV32E and CV64A open source cores at the RISC-V Summit 2020</title>
+      <link>https://www.openhwgroup.org/news/2019/12/09/openhw-group-to-showcase-member-projects-based-on-cv32e-and-cv64a-open-source-cores-at-the-risc-v-summit-2020/</link>
+      <pubDate>Mon, 09 Dec 2019 05:10:00 +0000</pubDate>
+      <author>info@openhwgroup.org (OpenHW Group)</author>
+      <guid>https://www.openhwgroup.org/news/2019/12/09/openhw-group-to-showcase-member-projects-based-on-cv32e-and-cv64a-open-source-cores-at-the-risc-v-summit-2020/</guid>
+      <description>&lt;p&gt;Ottawa, Canada - December 9 2019: The OpenHW Group will be participating at the 2nd annual RISC-V Summit in San Jose, 10-12 December 2020.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>UltraSoC donates RISC-V trace implementation to enable true open-source development</title>
+      <link>https://www.openhwgroup.org/news/2019/12/06/ultrasoc-donates-risc-v-trace-implementation-to-enable-true-open-source-development/</link>
+      <pubDate>Fri, 06 Dec 2019 05:10:00 +0000</pubDate>
+      <author>info@openhwgroup.org (OpenHW Group)</author>
+      <guid>https://www.openhwgroup.org/news/2019/12/06/ultrasoc-donates-risc-v-trace-implementation-to-enable-true-open-source-development/</guid>
+      <description>&lt;p&gt;Works through OpenHW Group to support design innovation and ensure ecosystem compatibility&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>OpenHW Group Summer 2019 Update</title>
