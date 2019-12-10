@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.openhwgroup.org/news/2019/12/10/openhw-group-announces-core-v-chassis-soc-project-and-issues-industry-call-for-participation/</loc>
+    <lastmod>2019-12-10T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openhwgroup.org/news/2019/12/09/openhw-group-to-showcase-member-projects-based-on-cv32e-and-cv64a-open-source-cores-at-the-risc-v-summit-2020/</loc>
     <lastmod>2019-12-09T05:10:00+00:00</lastmod>
   </url>
@@ -84,7 +89,7 @@
   
   <url>
     <loc>https://www.openhwgroup.org/categories/announcements/</loc>
-    <lastmod>2019-12-09T05:10:00+00:00</lastmod>
+    <lastmod>2019-12-10T05:10:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
