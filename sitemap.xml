@@ -110,4 +110,8 @@
     <priority>0</priority>
   </url>
   
+  <url>
+    <loc>https://www.openhwgroup.org/projects/</loc>
+  </url>
+  
 </urlset>
