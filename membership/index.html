@@ -371,7 +371,39 @@ Ability to join and participate in the Working Groups, industry collaborations t
 <script src="https://www.openhwgroup.org/js/solstice.js"></script>
 
 
+  <script id="event-short-list" type="text/html">
+<div class="row news-item padding-bottom-15">
+{{#events}}
+  <div class="col-sm-24">
+    <p class="margin-bottom-0">
+      <a class="fw-700" href="{{ registration }}">{{ title }}</a>
+    </p>
+    <p class="margin-bottom-0">{{ locationName }}</p>
+    <p>{{ date }} - {{ end-date }}</p>
+  </div>
+{{/events}}
+</div>
+</script>
+<script id="news-no-mh" type="text/html">
+{{#news}}
+<div class="item block-summary-item">
+<p>{{ date }}</p>
+<h4><a href="{{ link }}">{{ title }}</a></h4>
+<p>{{ body }}</p>
+</div>
+{{/news}}
+</script>
+<script>
+(function($, document) {
   
+  $("#news-list-container").eclipseFdnApi({
+    type: "newsItems"
+  });
+  $("#event-list-container").eclipseFdnApi({
+    type: "filteredEvents"
+  });
+})(jQuery, document);
+</script>
 </body>
 </html>
 

@@ -3,26 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.openhwgroup.org/news/2020/02/24/openhw-group-celebrates-rapid-growth-to-40-members-and-new-open-source-processor-implementations-less-than-a-year-after-launch/</loc>
-    <lastmod>2020-02-24T05:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openhwgroup.org/news/2019/12/10/openhw-group-announces-core-v-chassis-soc-project-and-issues-industry-call-for-participation/</loc>
-    <lastmod>2019-12-10T05:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openhwgroup.org/news/2019/12/09/openhw-group-to-showcase-member-projects-based-on-cv32e-and-cv64a-open-source-cores-at-the-risc-v-summit-2020/</loc>
-    <lastmod>2019-12-09T05:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openhwgroup.org/news/2019/12/06/ultrasoc-donates-risc-v-trace-implementation-to-enable-true-open-source-development/</loc>
-    <lastmod>2019-12-06T05:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.openhwgroup.org/membership/contact/</loc>
     <lastmod>2019-12-01T15:50:25-04:00</lastmod>
   </url>
@@ -35,41 +15,6 @@
   <url>
     <loc>https://www.openhwgroup.org/membership/</loc>
     <lastmod>2019-12-01T15:50:25-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openhwgroup.org/events/2020-02-24/</loc>
-    <lastmod>2019-12-01T05:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openhwgroup.org/events/2019-12-10/</loc>
-    <lastmod>2019-12-01T05:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openhwgroup.org/events/2019-11-13/</loc>
-    <lastmod>2019-11-13T05:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openhwgroup.org/events/2019-08-13/</loc>
-    <lastmod>2019-08-13T05:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openhwgroup.org/news/2019/08/13/openhw-group-summer-2019-update/</loc>
-    <lastmod>2019-08-13T05:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openhwgroup.org/news/2019/06/06/openhw-group-announced/</loc>
-    <lastmod>2019-06-06T05:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openhwgroup.org/events/2019-06-11/</loc>
-    <lastmod>2019-05-30T05:10:00+00:00</lastmod>
   </url>
   
   <url>
@@ -108,25 +53,8 @@
   </url>
   
   <url>
-    <loc>https://www.openhwgroup.org/events/</loc>
-    <lastmod>2018-04-05T15:50:25-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.openhwgroup.org/news/</loc>
     <lastmod>2018-04-05T15:50:25-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.openhwgroup.org/categories/announcements/</loc>
-    <lastmod>2020-02-24T05:10:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.openhwgroup.org/categories/events/</loc>
-    <lastmod>2019-12-01T05:10:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
