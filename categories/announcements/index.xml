@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>info@openhwgroup.org (OpenHW Group)</managingEditor>
     <webMaster>info@openhwgroup.org (OpenHW Group)</webMaster>
-    <lastBuildDate>Mon, 24 Feb 2020 05:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2020 05:10:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openhwgroup.org/categories/announcements/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OpenHW Group announces OpenHW TV live online events</title>
+      <link>https://www.openhwgroup.org/news/2020/06/05/openhw-group-announces-openhw-tv-live-online-events/</link>
+      <pubDate>Fri, 05 Jun 2020 05:10:00 +0000</pubDate>
+      <author>info@openhwgroup.org (OpenHW Group)</author>
+      <guid>https://www.openhwgroup.org/news/2020/06/05/openhw-group-announces-openhw-tv-live-online-events/</guid>
+      <description>We’re excited to announce our latest initiative to help us amplify the value of open source processor IP – OpenHWTV. It’s a series of online events that look at the barriers to adoption of opensource IP and in each episode, we delve a little deeper into different areas with help from our 45+ members.
+In the first episode, which airs on 18th June @ 11am EST, we look at the importance of verification with guest presenters from Imperas, a leader in virtual platforms and high-performance software simulation and Metrics, the first true cloud-based platformfor ASIC and complex FPGA design verification.</description>
+    </item>
     
     <item>
       <title>OpenHW Group celebrates rapid growth to 40&#43; members and new open-source processor implementations less than a year after launch</title>
