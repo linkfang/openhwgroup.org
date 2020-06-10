@@ -1,0 +1,428 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>UltraSoC Donates RISC-v Trace Implementation to Enable True Open-Source Development | OpenHW Group</title>
+<meta property="og:title" content="UltraSoC Donates RISC-v Trace Implementation to Enable True Open-Source Development | OpenHW Group" />
+<meta name="twitter:title" content="UltraSoC Donates RISC-v Trace Implementation to Enable True … | OpenHW Group" />
+
+<meta name="description" content="Works through OpenHW Group to support design innovation and ensure ecosystem compatibility">
+<meta property="og:description" content="Works through OpenHW Group to support design innovation and ensure ecosystem compatibility">
+<meta name="twitter:description" content="Works through OpenHW Group to support design innovation and ensure ecosystem compatibility">
+<meta name="author" content="OpenHW Group"/>
+<link href='https://www.openhwgroup.org/images/favicon.ico' rel='icon' type='image/x-icon'/>
+<meta property="og:image" content="https://www.openhwgroup.org/images/openhw-landscape.svg" />
+<meta name="twitter:image" content="https://www.openhwgroup.org/images/openhw-landscape.svg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@openhwgroup" />
+<meta name="twitter:creator" content="@openhwgroup" />
+<meta property="og:url" content="https://www.openhwgroup.org/news/2019/12/06/ultrasoc-donates-risc-v-trace-implementation-to-enable-true-open-source-development/" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="" />
+<meta name="keywords" content="open-source, risc-v, hardware, software, hw, sw, eclipse ide">
+
+
+<meta name="generator" content="Hugo 0.54.0" />
+<link rel="canonical" href="https://www.openhwgroup.org/news/2019/12/06/ultrasoc-donates-risc-v-trace-implementation-to-enable-true-open-source-development/" />
+
+
+<link rel="stylesheet" href="https://www.openhwgroup.org/css/styles.css">
+  
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
+  
+<script>
+	
+		var tableClasses = "table";
+	
+</script>
+  
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Orbitron:400,500,700,900&display=swap" rel="stylesheet">
+
+  
+<meta name="google-site-verification" content="I2_d3CKD6U3xrHN2TX7VTI5xpZvK5pZa8fiwDMXBsOE" />
+
+</head>
+<body>
+  
+<a class="sr-only" href="#content">Skip to main content</a>
+<header class="header-wrapper header-default-bg-img" id="header-wrapper">
+  
+
+<div class="background-white">
+  <div class="container">
+  <div class="text-right toolbar-row row hidden-print">
+      <div class="col-md-24 row-toolbar-col">
+        <ul class="list-inline">
+          <li><a href="/register" ><i class="fa fa-user fa-fw"></i> Create Account</a></li>
+          <li><a href="/register" ><i class="fa fa-edit fa-fw"></i> Edit my account</a></li>
+          <li><a href="#" class="toolbar-manage-cookies"><i class="fa fa-wrench"></i> Manage Cookies</a></li>
+          
+        </ul>
+      </div>
+    </div>
+    <div class="row" id="header-row">
+      <div class="col-sm-6 col-md-5" id="header-left">
+        <div class="wrapper-logo-default">
+            <a title="" href="https://www.openhwgroup.org/">
+              <img width="200" class="logo-eclipse-default img-responsive hidden-xs margin-top-20" src="https://www.openhwgroup.org/images/openhw-landscape.svg" alt="" />
+            </a>
+          
+        </div>
+      </div>
+      
+      <div class="col-sm-18 col-md-19 reset margin-top-20" id="main-menu-wrapper">
+      
+        <div class="navbar yamm" id="main-menu">
+          <div class="navbar-collapse collapse reset float-right" id="navbar-main-menu">
+            <ul class="nav navbar-nav">
+              
+
+
+
+<li>
+  <a class="" href="/about-us">
+  
+  About Us
+  </a>
+  
+</li>
+
+
+<li>
+  <a class="" href="/projects">
+  
+  Projects
+  </a>
+  
+</li>
+
+
+<li>
+  <a class="" href="/membership">
+  
+  Membership
+  </a>
+  
+</li>
+
+
+<li>
+  <a class="" href="/working-groups">
+  
+  Working Groups
+  </a>
+  
+</li>
+
+
+<li>
+  <a class="" href="/#contact-us">
+  
+  Contact Us
+  </a>
+  
+</li>
+
+
+
+
+
+
+            </ul>
+          </div>
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-main-menu">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            </button>
+            <div class="wrapper-logo-mobile">
+              
+                <a class="navbar-brand visible-xs" title="" href="https://www.openhwgroup.org/">
+                  <img width="140" class="logo-eclipse-default-mobile img-responsive margin-top-10" src="https://www.openhwgroup.org/images/openhw-landscape.svg" alt="" />
+                </a>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  
+
+</header>
+
+  
+<section class="default-breadcrumbs hidden-print" id="breadcrumb">
+  <div class="container">
+    <h3 class="sr-only">Breadcrumb</h3>
+    <div class="row">
+      <div class="col-sm-24">
+        <ol class="breadcrumb">
+          
+          
+          
+          
+          
+          
+          <li>
+            <a href="https://www.openhwgroup.org/">Home</a>
+          </li>
+        
+          
+          <li>
+            <a href="https://www.openhwgroup.org/news/">News</a>
+          </li>
+        
+          
+          <li class="active">
+            <a href="https://www.openhwgroup.org/news/2019/12/06/ultrasoc-donates-risc-v-trace-implementation-to-enable-true-open-source-development/">UltraSoC Donates RISC-v Trace Implementation to Enable True Open-Source Development</a>
+          </li>
+        
+        </ol>
+        
+      </div>
+    </div>
+  </div>
+</section>
+
+  
+  
+
+<main>
+  <div class="container">
+    
+      <div class="row">
+        <div class="col-md-18 padding-bottom-30">
+    
+
+    
+      <h1>UltraSoC Donates RISC-v Trace Implementation to Enable True Open-Source Development</h1>
+    
+  
+  <p>Works through OpenHW Group to support design innovation and ensure ecosystem compatibility</p>
+
+<p><strong>CAMBRIDGE, UK – 6 December 2019</strong></p>
+
+<p><a href="https://www.ultrasoc.com" target="_blank">UltraSoC</a> today announced it will offer an open-source implementation of its <a href="https://www.ultrasoc.com/ultrasoc-delivers-industrys-first-risc-v-processor-trace-ip/" target="_blank">industry-leading RISC-V trace encoder</a> via the OpenHW Group. The availability of a production-grade, standards-compliant processor trace solution is a key enabler for developers and supports the OpenHW Group’s aim of creating an open, commercial grade ecosystem for development based on open-source processors.</p>
+
+<p>Rupert Baines, CEO of UltraSoC, said: “We fully believe in industry standards and the importance of open- source; by donating this encoder we can help industry adoption of RISC-V, strengthen the ecosystem and support compatibility and consistency. Open-source is a familiar model in the software world, but in hardware we’re just beginning to unlock the possibilities of this powerful approach. The RISC-V ISA has provided initial momentum, and industry bodies such as the OpenHW Group are now taking it a step further. At the same time, the legal framework has developed to allow hardware IP companies to confidently license their technologies.”</p>
+
+<p>Rick O’Connor, CEO of the OpenHW Group, commented: “The fact that UltraSoC, as a focused commercial IP supplier, is donating its trace hardware, sends a signal that the open-source hardware movement is gathering pace and maturing. Processor trace is a key technology for developers using open-source CPUs: having access to a standards-compliant RISC-V trace solution is a major contribution in our quest to create a comprehensive ecosystem that delivers robust, commercial grade open-source platforms.”</p>
+
+<p>The open-source RISC-V trace solution will be fully compatible with the processor trace standard currently being developed within the RISC-V Foundation’s Processor Trace Working Group. UltraSoC developed the original RISC-V trace encoding algorithm in 2016, donating the specification as open-source shortly afterwards; pre-standard implementations of the specification are already shipping. The company has been a leading contributor to the RISC-V Foundation since 2016: its CTO, Gajinder Panesar, co-chairs the Processor Trace group.</p>
+
+<p>The open-source implementation, which will be available at the end of Q1 2020, includes the core functionality expected to be included in the standard: users can upgrade to UltraSoC’s full commercial offering, giving them access to additional sophisticated features such as multiple retirement, out-of-order trace, cycle-accurate tracing, and the filters and counters required for more complex performance analysis. Additionally, the commercial offering is fully consistent with UltraSoC’s range of monitoring and analytics tools, enabling not just development but optimization and cybersecurity applications.</p>
+
+<p>The company will provide further support for the open-source version by offering evaluation-style licensing of its UltraDevelop tool suite, which provides an Eclipse-based environment in which behavioral data from any chip can be captured and visualized. The hardware deliverable is product-quality/commercial grade and also includes test benches and verification tests.</p>
+
+<p>UltraSoC’s embedded analytics technology allows monitoring and analysis of the behavior of almost any on- chip structure, including CPUs, interconnects / NoCs and even custom logic. Its monitoring architecture gives the system architect free choice over which third-party IP to acquire, which parts of the design need to be custom coded, and how to interconnect the system. This “open” approach to its commercial offering is now reflected in the availability of a commercial grade open-source tool for processor trace and debug.</p>
+
+<p>Established early in 2019, <a href="https://www.ultrasoc.com/ultrasoc-joins-openhw-group-extends-commitment-open-source-future-technology-development/" target="_blank">the OpenHW Group</a> has grown rapidly over recent months. Its CORE-V processors are commercial-quality RISC-V based cores offered on an open-source basis, with associated processor subsystem IP, tools and software. The IP is available in both silicon and FPGA optimized implementations. These cores can be used to facilitate rapid design innovation and ensure effective manufacturability of high- volume production SoCs.</p>
+
+<p><strong>About UltraSoC</strong></p>
+
+<p>UltraSoC is a pioneering developer of analytics and monitoring technology at the heart of the systems-on-chip (SoCs) that power today’s electronic products. The company’s embedded analytics technology allows product designers to add advanced cybersecurity, functional safety and performance tuning features; and it helps resolve critical issues such as increasing system complexity and ever-decreasing time-to-market. UltraSoC’s  technology is delivered as semiconductor IP and software to customers in the consumer electronics, computing and communications industries. For more information visit <a href="www.ultrasoc.com" target="_blank">www.ultrasoc.com</a></p>
+
+<p><strong>About the OpenHW Group</strong></p>
+
+<p>OpenHW Group is a not-for-profit, global organization driven by its members and individual contributors where hardware and software designers collaborate in the development of open-source cores, related IP, tools and software such as the CORE-V Family of cores. OpenHW provides an infrastructure for hosting high quality open-source HW developments in line with industry best practices.  CORE-V is a series of RISC-V based open-source cores with associated processor subsystem IP, tools and software for electronic system designers. The CORE-V family provides quality core IP in line with industry best practices. The IP is available in both silicon and FPGA optimized implementations. These cores can be used to facilitate rapid design innovation and ensure effective manufacturability of high-volume production SoCs.</p>
+
+<p>Website: <a href="https://www.openhwgroup.org" target="_blank">OpenHWGroup.org</a></p>
+
+<p><strong>Contacts</strong><br />
+Andy Gothard <a href="mailto:david.marsden@ultrasoc.com" target="_blank">andy.gothard@ultrasoc.com</a><br />
++44 7768 082 044</p>
+
+<p>David Marsden <a href="mailto:david.marsden@ultrasoc.com" target="_blank">david.marsden@ultrasoc.com</a><br />
++44 7968 407 739</p>
+
+<p>Twitter: <a href="https://www.twitter.com/@ultrasoc" target="_blank">@ultrasoc</a></p>
+
+<p><strong>OpenHW Group contact:</strong><br />
+Rick O&#39;Connor, President &amp; CEO<br />
+Phone: +1-(613)-614-4101<br />
+Email: <a href="mailto:rickoco@openhwgroup.org" target="_blank">rickoco@openhwgroup.org</a></p>
+
+<p>Twitter: <a href="https://www.twitter.com/@rickco" target="_blank">@rickco</a><br />
+Twitter: <a href="https://www.twitter.com/@openhwgroup" target="_blank">@openhwgroup</a></p>
+
+<p><strong>OpenHW Group media enquiries contact:</strong><br />
+Andrea Barnard: <a href="mailto:andrea.barnard@publitek.com" target="_blank">andrea.barnard@publitek.com</a><br />
+Phone: +44-7768-178356</p>
+
+  
+
+     
+      </div>
+        <div class="col-md-6  padding-bottom-30">
+          
+<aside id="main-sidebar brand-primary" class="margin-top-20 margin-bottom-20">
+  <div class="icon-sidebar-menu row">
+    <ul class="clearfix" style="list-style:none">
+	    <li class="padding-bottom-20 clearfix margin-bottom-15">
+	      <div class="col-xs-8 col-md-9 hidden-xs hidden-sm">
+	        <a class="circle-icon" href="mailto:info@openhwgroup.org">
+	          <i class="fa fa-envelope-o brand-primary"></i>
+	        </a>
+	      </div>
+	      <div class="col-sm-24 col-md-15">
+	        <h3><a href="mailto:info@openhwgroup.org">Contact us about membership</a></h3>
+	        <p>Contact us about your organization joining the OpenHW Group.</p>
+	      </div>
+	    </li>
+      <li class="padding-bottom-20 clearfix margin-bottom-15">
+	      <div class="col-md-9 hidden-xs hidden-sm">
+	        <a class="circle-icon" href="/membership/members">
+	          <i class="fa fa-search brand-primary"></i>
+	        </a>
+	      </div>
+	      <div class="col-sm-24 col-md-15">
+	        <h3><a href="/membership/members">Explore our Members</a></h3>
+	        <p>Learn more about members of the OpenHW Group.</p>
+	      </div>
+      </li>
+      <li class="padding-bottom-20 clearfix margin-bottom-15">
+	      <div class="col-xs-8 col-md-9 hidden-xs hidden-sm">
+	        <a class="circle-icon" href="/membership/contact">
+	          <i class="fa fa-user brand-primary"></i>
+	        </a>
+	      </div>
+	      <div class="col-sm-24 col-md-15">
+	        <h3><a href="/membership/contact/">Become a member</a></h3>
+	        <p>Join the OpenHW Group and influence the future.</p>
+	      </div>
+      </li>
+    </ul>
+  </div>
+</aside>
+        </div>
+      </div>
+    
+  </div>
+</main>
+  
+
+  
+  
+
+<div id="contact-us" class="featured-section featured-contact-us padding-top-30 padding-bottom-40 margin-top-30">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 col-sm-offset-3">
+        <h2 class="header-underline">Contact Us</h2>
+        <h3>Mailing Address</h3>
+        <p>OpenHW Group<br>
+        2934 Baseline Road, Suite 202, Ottawa, ON, Canada K2H 1B2</p>
+        <h3>Email Address</h3>
+        <p><a class="white" href="mailto:info@openhwgroup.org">info@openhwgroup.org</a></p>
+      </div>
+      <div class="col-sm-8">
+        <p class="margin-top-60"><a class="btn btn-primary btn-mailing-list" href="https://mailchi.mp/77bbac3766fb/openhwgroup">Join Our Mailing List</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+<footer id="solstice-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-8">
+          <a title="" href="https://www.openhwgroup.org/">
+            <img width="250" class="logo-eclipse-default img-responsive hidden-xs" src="https://www.openhwgroup.org/images/openhw-landscape.svg" alt="" />
+          </a>
+        
+      </div>
+      <div class="col-sm-6">
+        <ul class="nav">
+          <li><a href="/#news">News and Events</a></li>
+          <li><a href="/#core-v-family">CORE-V Family</a></li>
+          <li><a href="/#testimonials">Testimonials</a></li>
+          <li><a href="/#partners-members">Partners and Members</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-6">
+        <ul class="nav">
+          <li><a href="/legal/privacy">Privacy Policy</a></li>
+          <li><a href="/legal/terms-of-use">Terms of Use</a></li>
+          <li><a href="/#about-us">About Us</a></li>
+          <li><a href="/#contact-us">Contact Us</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-4">
+        <ul class="list-inline">
+          <li>
+            <a target="_blank" class="social-media-link fa-stack fa-lg" href="https://twitter.com/openhwgroup">
+            <i class="fa fa-circle-thin fa-stack-2x"></i>
+            <i class="fa fa-twitter fa-stack-1x"></i>
+            </a>
+          </li>
+          <li>
+            <a target="_blank" class="social-media-link fa-stack fa-lg" href="https://www.linkedin.com/company/openhwgroup">
+            <i class="fa fa-circle-thin fa-stack-2x"></i>
+            <i class="fa fa-linkedin fa-stack-1x"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="row">
+      <div id="copyright" class="col-md-16">
+        <p id="copyright-text" class="gray">Copyright &copy; OpenHW Group. All Rights Reserved.</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="https://www.openhwgroup.org/js/solstice.js"></script>
+
+
+  <script id="event-short-list" type="text/html">
+<div class="row news-item padding-bottom-15">
+{{#events}}
+  <div class="col-sm-24">
+    <p class="margin-bottom-0">
+      <a class="fw-700" href="{{ registration }}">{{ title }}</a>
+    </p>
+    <p class="margin-bottom-0">{{ locationName }}</p>
+    <p>{{ date }} - {{ end-date }}</p>
+  </div>
+{{/events}}
+</div>
+</script>
+<script id="news-no-mh" type="text/html">
+{{#news}}
+<div class="item block-summary-item">
+<p>{{ date }}</p>
+<h4><a href="{{ link }}">{{ title }}</a></h4>
+<p>{{ body }}</p>
+</div>
+{{/news}}
+</script>
+<script>
+(function($, document) {
+  
+  $("#news-list-container").eclipseFdnApi({
+    type: "newsItems"
+  });
+  $("#event-list-container").eclipseFdnApi({
+    type: "filteredEvents"
+  });
+})(jQuery, document);
+</script>
+</body>
+</html>
+

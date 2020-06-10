@@ -13,6 +13,61 @@
     
     
     <item>
+      <title>OpenHW Group celebrates rapid growth to 40&#43; members and new open-source processor implementations less than a year after launch</title>
+      <link>https://www.openhwgroup.org/news/2020/02/24/openhw-group-celebrates-rapid-growth-to-40-members-and-new-open-source-processor-implementations-less-than-a-year-after-launch/</link>
+      <pubDate>Mon, 24 Feb 2020 05:10:00 +0000</pubDate>
+      <author>info@openhwgroup.org (OpenHW Group)</author>
+      <guid>https://www.openhwgroup.org/news/2020/02/24/openhw-group-celebrates-rapid-growth-to-40-members-and-new-open-source-processor-implementations-less-than-a-year-after-launch/</guid>
+      <description>&lt;p&gt;Member organisation for collaboration, ecosystem development and open-source processor cores grows at pace.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>OpenHW Group announces CORE-V Chassis SoC project and issues industry call for participation</title>
+      <link>https://www.openhwgroup.org/news/2019/12/10/openhw-group-announces-core-v-chassis-soc-project-and-issues-industry-call-for-participation/</link>
+      <pubDate>Tue, 10 Dec 2019 05:10:00 +0000</pubDate>
+      <author>info@openhwgroup.org (OpenHW Group)</author>
+      <guid>https://www.openhwgroup.org/news/2019/12/10/openhw-group-announces-core-v-chassis-soc-project-and-issues-industry-call-for-participation/</guid>
+      <description>&lt;p&gt;CORE-V Chassis SoC to include CORE-V family of open-source RISC-V cores including a Linux capable 64-bit processor coupled with a 32-bit coprocessor.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>OpenHW Group to showcase member projects based on CV32E and CV64A open source cores at the RISC-V Summit 2020</title>
+      <link>https://www.openhwgroup.org/news/2019/12/09/openhw-group-to-showcase-member-projects-based-on-cv32e-and-cv64a-open-source-cores-at-the-risc-v-summit-2020/</link>
+      <pubDate>Mon, 09 Dec 2019 05:10:00 +0000</pubDate>
+      <author>info@openhwgroup.org (OpenHW Group)</author>
+      <guid>https://www.openhwgroup.org/news/2019/12/09/openhw-group-to-showcase-member-projects-based-on-cv32e-and-cv64a-open-source-cores-at-the-risc-v-summit-2020/</guid>
+      <description>&lt;p&gt;Ottawa, Canada - December 9 2019: The OpenHW Group will be participating at the 2nd annual RISC-V Summit in San Jose, 10-12 December 2020.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>UltraSoC donates RISC-V trace implementation to enable true open-source development</title>
+      <link>https://www.openhwgroup.org/news/2019/12/06/ultrasoc-donates-risc-v-trace-implementation-to-enable-true-open-source-development/</link>
+      <pubDate>Fri, 06 Dec 2019 05:10:00 +0000</pubDate>
+      <author>info@openhwgroup.org (OpenHW Group)</author>
+      <guid>https://www.openhwgroup.org/news/2019/12/06/ultrasoc-donates-risc-v-trace-implementation-to-enable-true-open-source-development/</guid>
+      <description>&lt;p&gt;Works through OpenHW Group to support design innovation and ensure ecosystem compatibility&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>OpenHW Group Summer 2019 Update</title>
+      <link>https://www.openhwgroup.org/news/2019/08/13/openhw-group-summer-2019-update/</link>
+      <pubDate>Tue, 13 Aug 2019 05:10:00 +0000</pubDate>
+      <author>info@openhwgroup.org (OpenHW Group)</author>
+      <guid>https://www.openhwgroup.org/news/2019/08/13/openhw-group-summer-2019-update/</guid>
+      <description>In case you missed it, we launched the OpenHW Group at the ETH Zurich WOSH / RISC-V Workshop this past June and we have a great event coming up this fall, Open Source Developer Forum (OSDForum)!</description>
+    </item>
+    
+    <item>
+      <title>OpenHW Group Announced</title>
+      <link>https://www.openhwgroup.org/news/2019/06/06/openhw-group-announced/</link>
+      <pubDate>Thu, 06 Jun 2019 05:10:00 +0000</pubDate>
+      <author>info@openhwgroup.org (OpenHW Group)</author>
+      <guid>https://www.openhwgroup.org/news/2019/06/06/openhw-group-announced/</guid>
+      <description>OpenHW Group created and announces CORE-V family of open-source cores for use in high volume production SoCs Rick O&amp;rsquo;Connor, former Executive Director of the RISC-V Foundation, leads organization for collaboration, ecosystem development and open-source processor cores
+Ottawa, Canada and Zurich, Switzerland, June 6, 2019: A new not-for-profit global organization aims to boost the adoption of open-source processors by providing a platform for collaboration, creating a focal point for ecosystem development, and offering open-source IP for processor cores.</description>
+    </item>
+    
+    <item>
       <title>OpenHW Group Privacy Policy</title>
       <link>https://www.openhwgroup.org/legal/privacy/</link>
       <pubDate>Tue, 28 May 2019 16:09:45 -0400</pubDate>
