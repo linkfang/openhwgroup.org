@@ -226,7 +226,7 @@ View our projects
       </div>
       <div class="col-sm-8 col-sm-offset-1 news-list">
         <h2 class="header-underline margin-bottom-30">Events</h2>
-        <div id="event-list-container" class="news-items" data-template-id="event-short-list" data-count="3" data-publish-target="openhwgroup">
+        <div id="event-list-container" class="news-items" data-template-id="event-short-list" data-count="3" data-publish-target="openhwgroup" data-upcoming="1">
         </div>
         <ul class="list-inline block-summary-more margin-bottom-40">
           <li><a href="https://events.eclipse.org">View all</a></li>
@@ -669,14 +669,29 @@ View our projects
 
 
   <script id="event-short-list" type="text/html">
-<div class="row news-item padding-bottom-15">
+<div class="eclipsefdn-event-list-teaser">
 {{#events}}
-  <div class="col-sm-24">
-    <p class="margin-bottom-0">
-      <a class="fw-700" href="{{ registration }}">{{ title }}</a>
-    </p>
-    <p class="margin-bottom-0">{{ locationName }}</p>
-    <p>{{ date }} - {{ end-date }}</p>
+  <div class="eclipsefdn-event-list-teaser-content">
+    
+    {{#infoLink}}
+      <h3><a href="{{infoLink}}">{{ title }}</a></h3>
+    {{/infoLink}}
+
+    {{^infoLink}}
+      <h3>{{ title }}</h3>
+    {{/infoLink}}
+
+    {{#locationName}}
+      <p class="eclipsefdn-event-list-teaser-location"><span class="fw-700">Location:</span> {{ locationName }}</p>
+    {{/locationName}}
+
+    {{#date}}
+      <p class="eclipsefdn-event-list-teaser-date">{{ date }}{{#end-date}} - {{ end-date }}{{/end-date}}</p>
+    {{/date}}
+    
+    {{#registration}}
+      <p class="eclipsefdn-event-list-teaser-registation"><a href="{{registration}}" class="btn btn-primary btn-sm">Register</a></p>
+    {{/registration}}
   </div>
 {{/events}}
 </div>
