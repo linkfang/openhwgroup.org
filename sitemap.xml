@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.openhwgroup.org/news/2020/07/01/openhw-tv-episode-2-register-now-the-core-v-family-of-risc-v-cores/</loc>
+    <lastmod>2020-07-01T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openhwgroup.org/news/2020/06/29/openhw-tv-episode-1-now-available-on-demand/</loc>
     <lastmod>2020-06-29T05:10:00+00:00</lastmod>
   </url>
@@ -99,7 +104,7 @@
   
   <url>
     <loc>https://www.openhwgroup.org/categories/announcements/</loc>
-    <lastmod>2020-06-29T05:10:00+00:00</lastmod>
+    <lastmod>2020-07-01T05:10:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

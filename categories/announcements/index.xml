@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>info@openhwgroup.org (OpenHW Group)</managingEditor>
     <webMaster>info@openhwgroup.org (OpenHW Group)</webMaster>
-    <lastBuildDate>Mon, 29 Jun 2020 05:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2020 05:10:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.openhwgroup.org/categories/announcements/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OpenHW TV Episode 2 register now - The CORE-V family of RISC-V cores</title>
+      <link>https://www.openhwgroup.org/news/2020/07/01/openhw-tv-episode-2-register-now-the-core-v-family-of-risc-v-cores/</link>
+      <pubDate>Wed, 01 Jul 2020 05:10:00 +0000</pubDate>
+      <author>info@openhwgroup.org (OpenHW Group)</author>
+      <guid>https://www.openhwgroup.org/news/2020/07/01/openhw-tv-episode-2-register-now-the-core-v-family-of-risc-v-cores/</guid>
+      <description>The next episode of OpenHW TV will stream live on Thursday 16th July at 11am EST / 8am PST / 4pm BST.
+REGISTER HERE: https://bit.ly/2ZvxsmZ
+In this episode we look at highlights of the OpenHW Group CORE-V family of RISC-V cores, focusing on the CVE4 and CVA6 cores, an update of their current status within the OpenHW Group and how new contributors can participate in the development of these cores.</description>
+    </item>
     
     <item>
       <title>OpenHW TV Episode 1 now available on-demand</title>
