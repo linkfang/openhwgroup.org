@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.openhwgroup.org/resources/openhwtv/</loc>
+    <lastmod>2020-07-08T10:00:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openhwgroup.org/resources/</loc>
+    <lastmod>2020-07-08T10:00:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openhwgroup.org/resources/openhwtv/seasons/season1/</loc>
+    <lastmod>2020-07-08T10:00:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openhwgroup.org/resources/openhwtv/seasons/</loc>
+    <lastmod>2020-07-08T10:00:45-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.openhwgroup.org/news/2020/07/01/openhw-tv-episode-2-register-now-the-core-v-family-of-risc-v-cores/</loc>
     <lastmod>2020-07-01T05:10:00+00:00</lastmod>
   </url>
@@ -10,6 +30,11 @@
   <url>
     <loc>https://www.openhwgroup.org/news/2020/06/29/openhw-tv-episode-1-now-available-on-demand/</loc>
     <lastmod>2020-06-29T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openhwgroup.org/resources/openhwtv/s01e01/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -84,6 +109,11 @@
   
   <url>
     <loc>https://www.openhwgroup.org/about-us/</loc>
+    <lastmod>2019-05-04T10:00:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.openhwgroup.org/events/</loc>
     <lastmod>2019-05-04T10:00:45-04:00</lastmod>
   </url>
   

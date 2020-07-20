@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seasons on </title>
+    <link>https://www.openhwgroup.org/resources/openhwtv/seasons/</link>
+    <description>Recent content in Seasons on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>info@openhwgroup.org (OpenHW Group)</managingEditor>
+    <webMaster>info@openhwgroup.org (OpenHW Group)</webMaster>
+    <lastBuildDate>Wed, 08 Jul 2020 10:00:45 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.openhwgroup.org/resources/openhwtv/seasons/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Season 1</title>
+      <link>https://www.openhwgroup.org/resources/openhwtv/seasons/season1/</link>
+      <pubDate>Wed, 08 Jul 2020 10:00:45 -0400</pubDate>
+      <author>info@openhwgroup.org (OpenHW Group)</author>
+      <guid>https://www.openhwgroup.org/resources/openhwtv/seasons/season1/</guid>
+      <description>OpenHW TV S01E01 Jun 18, 2020
+ We live-streamed a world class first episode of OpenHW TV on 18th June and even exceeded our registration numbers, as guest presenters from Metrics and Imperas highlighted the open source CORE-V processor IP design verification plan. Our live Q&amp;amp;A session at the end with panellists from OpenHW Group including the Co-Chairs of our Verification Task Group was extremely popular and provoked some great discussion.</description>
+    </item>
+    
+  </channel>
+</rss>
