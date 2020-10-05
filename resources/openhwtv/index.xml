@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>OpenHW TV S01E04</title>
+      <link>https://www.openhwgroup.org/resources/openhwtv/s01e04/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      <author>info@openhwgroup.org (OpenHW Group)</author>
+      <guid>https://www.openhwgroup.org/resources/openhwtv/s01e04/</guid>
+      <description>Episode 4 discusses the OpenHW Group philosophy of learn, adopt, produce: learning about what is available in open-source ecoysystems, adopting and gaining experience on using these building blocks and deploying commercial grade open-source elements in production releases of designs. The episode includes updates from the OpenHW Group HW Task Group discussing the CORE-V MCU SoC project and features speakers from QuickLogic giving an overview of the ETH Zurich &amp;ldquo;Arnold&amp;rdquo; test chip and the path to production for the CORE-V MCU SoC, as well as Global Foundries talking about the features and benefits of 22FDX.</description>
+    </item>
+    
+    <item>
       <title>OpenHW TV S01E03</title>
       <link>https://www.openhwgroup.org/resources/openhwtv/s01e03/</link>
       <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>

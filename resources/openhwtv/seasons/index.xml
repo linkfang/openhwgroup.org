@@ -18,8 +18,8 @@
       <pubDate>Wed, 08 Jul 2020 10:00:45 -0400</pubDate>
       <author>info@openhwgroup.org (OpenHW Group)</author>
       <guid>https://www.openhwgroup.org/resources/openhwtv/seasons/season1/</guid>
-      <description>OpenHW TV S01E03CORE V SW and HW in the FPGA environment Aug 26, 2020
- Episode 03 features our HW and SW Task Groups, as well as guest member Ashling. The Chairs of the groups talk about the work of the SW and HW Task Groups to date, including an outlook to future roadmaps. We also look in detail at the open source GNU toolchain for the CORE-V family of RISC-V cores provided by Embecosm, and Ashling presents an in-depth overview and live demonstration of the RiscFree Eclipse based IDE debug interface to the Genesys2 FPGA board.</description>
+      <description>OpenHW TV S01E04CORE-V MCU SoC in GF 22FDX Oct 5, 2020
+ Episode 4 discusses the OpenHW Group philosophy of learn, adopt, produce: learning about what is available in open-source ecoysystems, adopting and gaining experience on using these building blocks and deploying commercial grade open-source elements in production releases of designs. The episode includes updates from the OpenHW Group HW Task Group discussing the CORE-V MCU SoC project and features speakers from QuickLogic giving an overview of the ETH Zurich &amp;ldquo;Arnold&amp;rdquo; test chip and the path to production for the CORE-V MCU SoC, as well as Global Foundries talking about the features and benefits of 22FDX.</description>
     </item>
     
   </channel>
