@@ -56,6 +56,10 @@
 </head>
 <body>
   
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5WLCZXC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
 <a class="sr-only" href="#content">Skip to main content</a>
 <header class="header-wrapper header-default-bg-img" id="header-wrapper">
   
@@ -349,8 +353,8 @@ Ottawa, Canada and Zurich, Switzerland, June 6, 2019: A new not-for-profit globa
   </div>
 </main>
   
-
   
+
   
 
 <div id="contact-us" class="featured-section featured-contact-us padding-top-30 padding-bottom-40 margin-top-30">
@@ -370,6 +374,18 @@ Ottawa, Canada and Zurich, Switzerland, June 6, 2019: A new not-for-profit globa
     </div>
   </div>
 </div>
+
+
+  <div class="featured-footer" id="featured-footer" data-publish-target="openhwgroup">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-24 featured-container">
+        </div>
+      </div>
+    </div>
+  </div>
+
+
 <footer id="solstice-footer">
   <div class="container">
     <div class="row">
@@ -429,6 +445,12 @@ Ottawa, Canada and Zurich, Switzerland, June 6, 2019: A new not-for-profit globa
 <script>
 (function($, document) {
   
+  
+
+  
+  $("#featured-footer").eclipseFdnApi({
+    type: "featuredFooter"
+  });
   
 })(jQuery, document);
 </script>
