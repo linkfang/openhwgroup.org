@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on </title>
@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>info@openhwgroup.org (OpenHW Group)</managingEditor>
     <webMaster>info@openhwgroup.org (OpenHW Group)</webMaster>
-    <lastBuildDate>Thu, 05 Apr 2018 15:50:25 -0400</lastBuildDate>
-    
-	<atom:link href="https://www.openhwgroup.org/news/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 05 Apr 2018 15:50:25 -0400</lastBuildDate><atom:link href="https://www.openhwgroup.org/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OpenHW TV Episode 2 register now - The CORE-V family of RISC-V cores</title>
       <link>https://www.openhwgroup.org/news/2020/07/01/openhw-tv-episode-2-register-now-the-core-v-family-of-risc-v-cores/</link>
@@ -94,8 +90,7 @@ In the first episode, which airs on 18th June @ 11am EST, we look at the importa
       <pubDate>Thu, 06 Jun 2019 05:10:00 +0000</pubDate>
       <author>info@openhwgroup.org (OpenHW Group)</author>
       <guid>https://www.openhwgroup.org/news/2019/06/06/openhw-group-announced/</guid>
-      <description>OpenHW Group created and announces CORE-V family of open-source cores for use in high volume production SoCs Rick O&amp;rsquo;Connor, former Executive Director of the RISC-V Foundation, leads organization for collaboration, ecosystem development and open-source processor cores
-Ottawa, Canada and Zurich, Switzerland, June 6, 2019: A new not-for-profit global organization aims to boost the adoption of open-source processors by providing a platform for collaboration, creating a focal point for ecosystem development, and offering open-source IP for processor cores.</description>
+      <description></description>
     </item>
     
   </channel>
