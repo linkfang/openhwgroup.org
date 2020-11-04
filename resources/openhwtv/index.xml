@@ -9,6 +9,15 @@
     <webMaster>info@openhwgroup.org (OpenHW Group)</webMaster>
     <lastBuildDate>Wed, 08 Jul 2020 10:00:45 -0400</lastBuildDate><atom:link href="https://www.openhwgroup.org/resources/openhwtv/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenHW TV S01 E05</title>
+      <link>https://www.openhwgroup.org/resources/openhwtv/s01e05/</link>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      <author>info@openhwgroup.org (OpenHW Group)</author>
+      <guid>https://www.openhwgroup.org/resources/openhwtv/s01e05/</guid>
+      <description>Back in June, the first episode of OpenHW TV looked at the CORE-V Verification Test Bench and our open-source RISC-V processor IP design verification plan. Just 4 months on and OpenHW Group is approaching the Functional RTL Freeze milestone for the CVE4. This episode looks at what the Functional RTL Freeze milestone means and how learnings from our early verification efforts have shaped our test bench progress, highlighting bugs and coverage gaps to help us deliver commercial grade, industrial quality verification work.</description>
+    </item>
+    
+    <item>
       <title>OpenHW TV S01E04</title>
       <link>https://www.openhwgroup.org/resources/openhwtv/s01e04/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>

@@ -9,6 +9,15 @@
     <webMaster>info@openhwgroup.org (OpenHW Group)</webMaster>
     <lastBuildDate>Thu, 14 Mar 2019 15:50:25 -0400</lastBuildDate><atom:link href="https://www.openhwgroup.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenHW TV S01 E05</title>
+      <link>https://www.openhwgroup.org/resources/openhwtv/s01e05/</link>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      <author>info@openhwgroup.org (OpenHW Group)</author>
+      <guid>https://www.openhwgroup.org/resources/openhwtv/s01e05/</guid>
+      <description>Back in June, the first episode of OpenHW TV looked at the CORE-V Verification Test Bench and our open-source RISC-V processor IP design verification plan. Just 4 months on and OpenHW Group is approaching the Functional RTL Freeze milestone for the CVE4. This episode looks at what the Functional RTL Freeze milestone means and how learnings from our early verification efforts have shaped our test bench progress, highlighting bugs and coverage gaps to help us deliver commercial grade, industrial quality verification work.</description>
+    </item>
+    
+    <item>
       <title>OpenHW TV S01E04</title>
       <link>https://www.openhwgroup.org/resources/openhwtv/s01e04/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
@@ -42,8 +51,8 @@ View on youku.com</description>
       <pubDate>Wed, 08 Jul 2020 10:00:45 -0400</pubDate>
       <author>info@openhwgroup.org (OpenHW Group)</author>
       <guid>https://www.openhwgroup.org/resources/openhwtv/seasons/season1/</guid>
-      <description>OpenHW TV S01E04CORE-V MCU SoC in GF 22FDX Oct 5, 2020
- Episode 4 discusses the OpenHW Group philosophy of learn, adopt, produce: learning about what is available in open-source ecoysystems, adopting and gaining experience on using these building blocks and deploying commercial grade open-source elements in production releases of designs. The episode includes updates from the OpenHW Group HW Task Group discussing the CORE-V MCU SoC project and features speakers from QuickLogic giving an overview of the ETH Zurich &amp;ldquo;Arnold&amp;rdquo; test chip and the path to production for the CORE-V MCU SoC, as well as Global Foundries talking about the features and benefits of 22FDX.</description>
+      <description>OpenHW TV S01 E05CORE V CVE4 Functional RTL Freeze Milestone Oct 29, 2020
+ Back in June, the first episode of OpenHW TV looked at the CORE-V Verification Test Bench and our open-source RISC-V processor IP design verification plan. Just 4 months on and OpenHW Group is approaching the Functional RTL Freeze milestone for the CVE4. This episode looks at what the Functional RTL Freeze milestone means and how learnings from our early verification efforts have shaped our test bench progress, highlighting bugs and coverage gaps to help us deliver commercial grade, industrial quality verification work.</description>
     </item>
     
     <item>
