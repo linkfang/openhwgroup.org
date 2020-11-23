@@ -9,6 +9,15 @@
     <webMaster>info@openhwgroup.org (OpenHW Group)</webMaster>
     <lastBuildDate>Thu, 14 Mar 2019 15:50:25 -0400</lastBuildDate><atom:link href="https://www.openhwgroup.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenHW TV S01 E06</title>
+      <link>https://www.openhwgroup.org/resources/openhwtv/s01e06/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      <author>info@openhwgroup.org (OpenHW Group)</author>
+      <guid>https://www.openhwgroup.org/resources/openhwtv/s01e06/</guid>
+      <description>Our last webinar episode of 2020 is now available to watch on-demand. Last month we looked at our progress on the RTL functional freeze milestone for the CVE4 and how we arrived there with the high-quality verification work from our members. We had a lot of questions about the Formal Verification work carried out to get us this far, so we have dedicated this episode to a deep-dive into the Formal Verification work and to hear from our partners on what it actually means.</description>
+    </item>
+    
+    <item>
       <title>OpenHW TV S01 E05</title>
       <link>https://www.openhwgroup.org/resources/openhwtv/s01e05/</link>
       <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
@@ -51,8 +60,8 @@ View on youku.com</description>
       <pubDate>Wed, 08 Jul 2020 10:00:45 -0400</pubDate>
       <author>info@openhwgroup.org (OpenHW Group)</author>
       <guid>https://www.openhwgroup.org/resources/openhwtv/seasons/season1/</guid>
-      <description>OpenHW TV S01 E05CORE V CVE4 Functional RTL Freeze Milestone Oct 29, 2020
- Back in June, the first episode of OpenHW TV looked at the CORE-V Verification Test Bench and our open-source RISC-V processor IP design verification plan. Just 4 months on and OpenHW Group is approaching the Functional RTL Freeze milestone for the CVE4. This episode looks at what the Functional RTL Freeze milestone means and how learnings from our early verification efforts have shaped our test bench progress, highlighting bugs and coverage gaps to help us deliver commercial grade, industrial quality verification work.</description>
+      <description>OpenHW TV S01 E06Deep Dive into Formal Verification for the CORE-V CVE4 Nov 20, 2020
+ Our last webinar episode of 2020 is now available to watch on-demand. Last month we looked at our progress on the RTL functional freeze milestone for the CVE4 and how we arrived there with the high-quality verification work from our members. We had a lot of questions about the Formal Verification work carried out to get us this far, so we have dedicated this episode to a deep-dive into the Formal Verification work and to hear from our partners on what it actually means.</description>
     </item>
     
     <item>
